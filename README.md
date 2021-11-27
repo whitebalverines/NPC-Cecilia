@@ -21,6 +21,8 @@ Get to know this friendly ghost and learn more about her story and what really h
 
 - More events relating to a future project
 - Spouse patio
+- Fixed flower dance sprites
+- Halloween costumes
 
 ### CONFIG OPTIONS: ###
 
