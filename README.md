@@ -20,11 +20,15 @@ Get to know this friendly ghost and learn more about her story and what really h
 ### TO COME: ###
 
 - More events relating to a future project
-- Spouse patio
-- Fixed flower dance sprites
-- Halloween costumes
 
 ### CONFIG OPTIONS: ###
 
 - Female Wizard (true/false)
 - Female Denver (true/false)
+- Allow costumes (true/false)
+- Which costume (random/fairy/white rabbit/red riding hood)
+### KIDS ###
+- Enable kids that look like her (true/false)
+### HOUSE ###
+- Style (regular/reimagined/reimagined 2)
+- SVE (true/false)
